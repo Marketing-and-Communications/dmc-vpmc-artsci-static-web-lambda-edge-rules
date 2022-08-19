@@ -1,5 +1,6 @@
 [
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
-    "^(((?!\\.).)*)$ $1/index.html [R,L]"
+    "^(((?!\\.).)*)$ $1/index.html [R,L]",
+    "https://artsci.tamu.edu/marcomm/index.html https://artsci.tamu.edu/contact/marcomm/index.html [R=301,L,NC]"
 ]
