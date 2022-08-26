@@ -1,5 +1,5 @@
 [
-    "/marcomm/index.html$ /contact/marcomm/index.html [R,L]",
+    "/marcomm/index.html /contact/marcomm/index.html [R=301,L,NC]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
     "^(((?!\\.).)*)$ $1/index.html [R,L]"
