@@ -1,7 +1,7 @@
 [
     "^/philosophy-humanities(.*)$ /philosophy$1 [R=301,NC,L]",
     "^/contact/leadership-team-orig.html$ https://artsci.tamu.edu/contact/leadership-team.html [R=301,L,NC]",
-    "^/bims/* https://vetmed.tamu.edu/bims/ [R=301,L,NC]",
+    "^/bims/(.*) https://vetmed.tamu.edu/bims/ [R=301,L,NC]",
     "^//.* /index.html [R,L]",
     "^(.*)/$ $1/index.html [R,L]",
     "^(((?!\\.).)*)?(/\\?.*)$ $1/index.html [R,L]",
