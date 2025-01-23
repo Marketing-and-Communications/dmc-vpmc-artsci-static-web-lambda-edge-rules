@@ -1,4 +1,5 @@
 [
+    "^/sociology/academics/lmas/index.html$ https://artsci.tamu.edu/sociology/lmas/index.html [R=301,NC,L]",
     "^/psychological-brain-sciences/academics/undergraduate/undergraduate.html$ /psychological-brain-sciences/academics/undergraduate/undergraduate-degrees-and-programs.html [R=301,NC,L]",
     "^/philosophy-humanities(.*)$ /philosophy$1 [R=301,NC,L]",
     "^/contact/leadership-team-orig.html$ https://artsci.tamu.edu/contact/leadership-team.html [R=301,L,NC]",
